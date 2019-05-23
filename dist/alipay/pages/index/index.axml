@@ -1,0 +1,7 @@
+<view class=" cml-base cml-view cml-8d82fb8c"><cml-buildin-page title="chameleon" class=" cml-base cml-page cml-8d82fb8c">
+    <view class=" cml-base cml-view cml-8d82fb8c"><cml-buildin-scroller height="{{-1}}" class=" cml-base cml-scroller cml-8d82fb8c">
+      <view class="scroller-wrap  cml-base cml-view cml-8d82fb8c">
+        <view class=" cml-base cml-view cml-8d82fb8c"><demo-com title="{{title}}" image-src="{{chameleonSrc}}" class=" cml-base cml-demo-com cml-8d82fb8c"></demo-com></view>
+      </view>
+    </cml-buildin-scroller></view>
+  </cml-buildin-page></view>
